@@ -11,3 +11,5 @@ const fizzbuzz = num => {
         }
     }
 }
+
+console.log(fizzbuzz(20))
